@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(244, 183, 233);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.container{
+    text-align: center;
+    
+}
+
+h1{
+    font-size: 80px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+#btn{
+background-color: rgb(183, 71, 138);
+padding: 20px 70px;
+font-size: 20px;
+transition: all 300ms;
+color: aliceblue;
+}
+#btn:hover{
+    background-color: purple;
+}
+#quote{
+    font-size: 30px;
+}
